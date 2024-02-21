@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;500&display=swap');
+
+.Menu{
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    z-index: 9999; 
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    position: fixed;
+    font-size: 40px;
+    color: white;
+}
+.H2Menustylecss{
+    position: fixed;
+    color: gray;
+}
+.H2_1_Menucssstyleall{
+    position: fixed;
+    left: 670px;
+    top: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    border-bottom: 1px solid white ;
+}
+.H2_2_Menucssstyleall{
+    position: fixed;
+    left: 870px;
+    top: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+}
+.H2_1_Menucssstyleall:hover{
+    border-bottom: 1px solid white ;
+}
+.H2_2_Menucssstyleall:hover{
+    border-bottom: 1px solid white ;
+}
+body{
+    background: black;
+}
+.Outside_the_Menu{
+    top: 100px;
+    color: white;
+}
+.H2_1_Menucssstyleall_1{
+    position: absolute;
+    top: 25%;
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+    left: 20px;
+}
+.Allinsiteforproject{
+    position: relative;
+    width: 56vh;
+    top: 20pc;
+    left: 20px;
+    font-size: 20px;
+    color: gray;
+    list-style-position: inside; 
+}
+.Image_big{
+    display: flex;
+    position: absolute;
+    top: 9pc;
+    right: 10vh;
+}p4{
+    font-size: 25px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: white;
+}
+h3{
+color: white;
+font-size: 40px;
+}ul{
+    list-style-position: inside;
+}
+.table{
+    background-color: black;
+    color: white;
+}
